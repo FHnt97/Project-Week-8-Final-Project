@@ -47,10 +47,31 @@ For this I will query the data for questions such as:
 
 * For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
 
+1. World bank
+
+Data from 1960s to 2018.
+Open database for World Develpment indicators, includes variables such as intellectual property, exports and imports, patent applications, R&D expenditures (% of GDP), etc. 
+
+[world bank](https://data.worldbank.org/topic/science-and-technology)
+
+2. JRC-OECD COR&DIP database v.1, 2017 - European PArliment and OECD collaboration.
+
+Database created 2017, latest information on patents form 2012 to 2014 (latest public version of data).
+Open database that results out of the collaboration between the EU commission, JBC Directorate and the OECDDirectorate. The database contains information about R&D activity and IP assets of the top 2000 corporate R&D performers worldwide. 
+
+[JRC-OECD](http://www.oecd.org/sti/intellectual-property-statistics-and-analysis.htm)
+
+3. World intelectual property organisation. 
+The WIPO has an open IP Statistic Data Centre with data from Dec. 2018 where information on the patent count of all countries can be found divided by industry. 
+
+[WIPO](https://www.wipo.int/ipstats/en/)
 
 
-**The original datasets have been saved outside of the repo, leaving only the links to the original raw data and the cleaned sets in the Repo. due to their size.**
+4. Crunchbase
+Database on Company creation and financing/ investements by sector and contry, from mid 1980s to 2015. 
+Rights to data can be found in the data folder. 
 
+[Crunchbase](https://data.crunchbase.com/docs/open-data-map)
 
 <a name="cleaning"></a>
 
