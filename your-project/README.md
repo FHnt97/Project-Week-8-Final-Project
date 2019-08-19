@@ -22,10 +22,12 @@
 <a name="project-description"></a>
 
 ## Project Description
+
 In this project I am looking to answer the question of how technology and RnD hubs are changing across the world. 
 The project is divided into two research directions:
 
 #### The first will be an innovation rate analysis. 
+There are several ways to measure this, there are a number of articles and stuides using a wide range of creative attributes to measure innvoation and tehcnological advancement [see link for example](https://ourworldindata.org/technological-progress). I will however, be focusing on industry indexes, taking the world banks indicators as a basis to technological measurements. 
 
 The plan for this is to analyse the registrations of patents in manufacturing techniques and machinery across the world. This analysis will be divided in analysis by country, by field, and by company. 
 From here, the aim is to see how trends have changed over time and make a prediction of what regions/ fields/ companies have the highest rate of innovation. 
