@@ -43,7 +43,11 @@ For this I will query the data for questions such as:
 * Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
 
 * For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
+
+
+<div class="alert alert-block alert-danger">
+The original datasets have been saved outside of the repo, leaving only the links to the original raw data and the cleaned sets in the Repo. due to their size. 
+</div>
 
 
 
