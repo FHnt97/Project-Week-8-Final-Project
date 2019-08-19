@@ -1,5 +1,5 @@
-# Created by https://www.gitignore.io/api/linux,macos,windows,android
-# Edit at https://www.gitignore.io/?templates=linux,macos,windows,android
+# Created by https://www.gitignore.io/api/git,linux,macos,windows,android,jupyternotebooks
+# Edit at https://www.gitignore.io/?templates=git,linux,macos,windows,android,jupyternotebooks
 
 ### Android ###
 # Built application files
@@ -89,6 +89,32 @@ lint/tmp/
 gen-external-apklibs
 output.json
 
+### Git ###
+# Created by git for backups. To disable backups in Git:
+# $ git config --global mergetool.keepBackup false
+*.orig
+
+# Created by git when using merge tools for conflicts
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
+
 ### Linux ###
 *~
 
@@ -158,4 +184,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/linux,macos,windows,android
+# End of https://www.gitignore.io/api/git,linux,macos,windows,android,jupyternotebooks
