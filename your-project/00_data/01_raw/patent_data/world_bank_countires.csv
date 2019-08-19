@@ -1,4 +1,4 @@
-Country Code,Country Name,Region,IncomeGroup,SpecialNotes
+ï»¿Country Code,Country Name,Region,IncomeGroup,SpecialNotes
 ABW,Aruba,Latin America & Caribbean,High income,
 AFG,Afghanistan,South Asia,Low income,
 AGO,Angola,Sub-Saharan Africa,Lower middle income,
@@ -22,7 +22,7 @@ BGR,Bulgaria,Europe & Central Asia,Upper middle income,
 BHR,Bahrain,Middle East & North Africa,High income,
 BHS,"Bahamas, The",Latin America & Caribbean,High income,
 BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,
-BLR,Belarus,Europe & Central Asia,Upper middle income,"Data before 2015 were adjusted to reflect the new denomination effective from July 1, 2016 (BYN), a decrease of 10,000 times (1 BYN = 10,000 BYR)"
+BLR,Belarus,Europe & Central Asia,Upper middle income,"Data before 2015Â were adjusted to reflect theÂ new denomination effective from July 1, 2016 (BYN), a decrease of 10,000 times (1 BYN = 10,000 BYR)"
 BLZ,Belize,Latin America & Caribbean,Upper middle income,
 BMU,Bermuda,North America,High income,
 BOL,Bolivia,Latin America & Caribbean,Lower middle income,
@@ -38,7 +38,7 @@ CHE,Switzerland,Europe & Central Asia,High income,
 CHI,Channel Islands,Europe & Central Asia,High income,
 CHL,Chile,Latin America & Caribbean,High income,
 CHN,China,East Asia & Pacific,Upper middle income,"On 1 July 1997 China resumed its exercise of sovereignty over Hong Kong; and on 20 December 1999 China resumed its exercise of sovereignty over Macao. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China."
-CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,
+CIV,CÃ´te d'Ivoire,Sub-Saharan Africa,Lower middle income,
 CMR,Cameroon,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,
@@ -48,7 +48,7 @@ CPV,Cabo Verde,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,Latin America & Caribbean,Upper middle income,
 CSS,Caribbean small states,,,
 CUB,Cuba,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,Latin America & Caribbean,High income,
+CUW,CuraÃ§ao,Latin America & Caribbean,High income,
 CYM,Cayman Islands,Latin America & Caribbean,High income,
 CYP,Cyprus,Europe & Central Asia,High income,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.585274 Cyprus pounds. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
 CZE,Czech Republic,Europe & Central Asia,High income,
@@ -162,7 +162,7 @@ MNE,Montenegro,Europe & Central Asia,Upper middle income,"Montenegro declared in
 MNG,Mongolia,East Asia & Pacific,Lower middle income,
 MNP,Northern Mariana Islands,East Asia & Pacific,High income,
 MOZ,Mozambique,Sub-Saharan Africa,Low income,
-MRT,Mauritania,Sub-Saharan Africa,Lower middle income,National account data were adjusted to reflect the new banknote (1 new ouguiya = 10 old ouguiya)
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,National account dataÂ were adjusted to reflect theÂ new banknote (1 new ouguiya = 10 old ouguiya)
 MUS,Mauritius,Sub-Saharan Africa,Upper middle income,
 MWI,Malawi,Sub-Saharan Africa,Low income,
 MYS,Malaysia,East Asia & Pacific,Upper middle income,
@@ -215,7 +215,7 @@ SSA,Sub-Saharan Africa (excluding high income),,,Sub-Saharan Africa regional agg
 SSD,South Sudan,Sub-Saharan Africa,Low income,
 SSF,Sub-Saharan Africa,,,Sub-Saharan Africa regional aggregate (includes all income levels).
 SST,Small states,,,"Small states aggregate. Includes 41 members of the Small States Forum. (Does not include the high-income countries Bahrain, Brunei Darussalam, Cyprus, Estonia, Iceland, Malta, Qatar, and San Marino.)"
-STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,National account data were adjusted to reflect the new banknote (1 new Dobra STN = 1000 old Dobra STD)
+STP,SÃ£o TomÃ© and Principe,Sub-Saharan Africa,Lower middle income,National account dataÂ were adjusted to reflect theÂ new banknote (1 new Dobra STN = 1000 old Dobra STD)
 SUR,Suriname,Latin America & Caribbean,Upper middle income,
 SVK,Slovak Republic,Europe & Central Asia,High income,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2009: 1 euro = 30.126 Slovak koruna. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
 SVN,Slovenia,Europe & Central Asia,High income,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2007: 1 euro = 239.64 Slovenian tolar. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
