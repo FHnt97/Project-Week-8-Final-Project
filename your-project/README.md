@@ -30,7 +30,7 @@ The project is divided into two research directions:
 There are several ways to measure this, there are a number of articles and stuides using a wide range of creative attributes to measure innvoation and tehcnological advancement [see link for example](https://ourworldindata.org/technological-progress). I will however, be focusing on industry indexes, taking the world banks indicators as a basis to technological measurements. 
 
 The plan for this is to analyse the registrations of patents in manufacturing techniques and machinery across the world. This analysis will be divided in analysis by country, by field, and by company. 
-From here, the aim is to see how trends have changed over time and make a prediction of what regions/ fields/ companies have the highest rate of innovation. 
+From here, the aim is to see how trends have changed over time and make a prediction of what regions/ fields/ companies have the highest rate of innovation. I will use a number of datasets to create an inofmrative dashboard presenting which countries and industries could be of most interest for R&D in technology. 
 
 #### The second step of the analysis will then be to take a specific filed of interest (relating to previous research I have carried out on the fields of semiconductor manufacturing and solar panel production lines) and to analyse how companies in those fields are evolving.
 
@@ -54,7 +54,7 @@ Open database for World Develpment indicators, includes variables such as intell
 
 [world bank](https://data.worldbank.org/topic/science-and-technology)
 
-2. JRC-OECD COR&DIP database v.1, 2017 - European PArliment and OECD collaboration.
+2. JRC-OECD COR&DIP database v.1, 2017 - European Parliment and OECD collaboration.
 
 Database created 2017, latest information on patents form 2012 to 2014 (latest public version of data).
 Open database that results out of the collaboration between the EU commission, JBC Directorate and the OECDDirectorate. The database contains information about R&D activity and IP assets of the top 2000 corporate R&D performers worldwide. 
