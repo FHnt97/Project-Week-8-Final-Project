@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# How are the technological hubs of manufacturing evolving in the world? An analysis on the rate of innovation. 
 
-*[Your Cohort, Campus & Date]*
+*[Fabia Höhne Tarragona]*
+
+*[Data Analytics, Barcelona, June 2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -21,23 +22,30 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+In this project I am looking to answer the question of how technology and RnD hubs are changing across the world. 
+The project is divided into two research directions:
 
-<a name="hypotheses-/-questions"></a>
+#### - The first will be a innvoation rate analysis. 
 
-## Hypotheses / Questions
-* What data/business/research/personal question you would like to answer? 
-* What is he context for the question and the scientific or business application? 
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+The plan for this is to analyse the registrations of patents in manufacturing techniques and machinery across the world. This analysis will be divided in anlaysis by country, by field, and by company. 
+From here, the aim is to see how trends have changed over time and make a prediciton of what regions/ fields/ companies have the highest rate of innovation. 
+
+#### - The second step of the analysis will then be to take a specific filed of interest (relating to previous research I have carried out on the fields of semiconductor manufacturing and solar panel production lines) and to analyse how companies in those fileds are evolving.
+
+For this I will query the data for questions such as: 
+    - Are more compaies appearing?
+    - How much funding do they get?
+    - What is the frop rate of companies apprearing in the field?
 
 <a name="dataset"></a>
 
 ## Dataset
 * Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
-* Did you build your own datset? If so, did you use an API? If so, provide the scripts in your repo.
+
 * For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
 * If the question cannot be answered with the available data, why not? What data would you need to answer it better?
+
+
 
 <a name="cleaning"></a>
 
@@ -73,19 +81,39 @@ Address any questions you were unable to answer, or any next steps or future ext
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps?
-How will you test the success of our analysis or algorithm?
+The defined workflow follows different steps:
+
+1. Topic choice and definition of tasks and questions.
+2. Data acquisition 
+3. Data cleaning and export to SQL 
+4. Exploratory Data Analysis
+5. Data Visualization
+6. Answering of questions (prediction and drop rate machine learning)
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+##### The Project is orgnaised using the following structure in hte Repository:
+- README.md file for general project overview, quesiton definition and initial resources.
+- Data folder divided into original and cleaned data. 
+- Visualisation forlder where you can find the graphics developed throught the project. 
+- Code folder containing the three codebooks for Database Creation, Data Wrangling, and Analysis *(the latter contains the conclusions, afterthoughts, and additional links to literature)*.
+    - In each of the codebooks you will find the step by stepl explanations and reasoning of my workflow. 
+
+
+##### The organization of the project has been carried out using the following: 
+1. Time management: Trello (Kanban Board)
+2. Code, data and folder management: GitHub
+3. Good Practices:
+    3.1. PEP 8
+    3.2. Jupyer Notebook for coding
+    3.3. Consistent GitHub commits with comments and summaries of working steps
+
 
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/FHnt97/Project-Week-8-Final-Project)  
+[Slides](https://docs.google.com/presentation/d/1FvAILtooPfkUU3_7fx-xLv4j2yqRXDIqy5rY450gI-w/edit?usp=sharing)  
+[Trello](https://trello.com/invite/b/X4MiUR2u/04f26dfb6c9d61a9dc2a26f48cc6dcaa/project-5)  
