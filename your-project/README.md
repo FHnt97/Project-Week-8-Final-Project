@@ -25,17 +25,18 @@
 In this project I am looking to answer the question of how technology and RnD hubs are changing across the world. 
 The project is divided into two research directions:
 
-#### - The first will be a innvoation rate analysis. 
+#### The first will be an innovation rate analysis. 
 
-The plan for this is to analyse the registrations of patents in manufacturing techniques and machinery across the world. This analysis will be divided in anlaysis by country, by field, and by company. 
-From here, the aim is to see how trends have changed over time and make a prediciton of what regions/ fields/ companies have the highest rate of innovation. 
+The plan for this is to analyse the registrations of patents in manufacturing techniques and machinery across the world. This analysis will be divided in analysis by country, by field, and by company. 
+From here, the aim is to see how trends have changed over time and make a prediction of what regions/ fields/ companies have the highest rate of innovation. 
 
-#### - The second step of the analysis will then be to take a specific filed of interest (relating to previous research I have carried out on the fields of semiconductor manufacturing and solar panel production lines) and to analyse how companies in those fileds are evolving.
+#### The second step of the analysis will then be to take a specific filed of interest (relating to previous research I have carried out on the fields of semiconductor manufacturing and solar panel production lines) and to analyse how companies in those fields are evolving.
 
 For this I will query the data for questions such as: 
-    - Are more compaies appearing?
+    - Are more companies appearing?
     - How much funding do they get?
-    - What is the frop rate of companies apprearing in the field?
+    - What is the drop rate of companies appearing in the field?
+
 
 <a name="dataset"></a>
 
@@ -45,10 +46,8 @@ For this I will query the data for questions such as:
 * For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
 
 
-<div class="alert alert-block alert-danger">
-The original datasets have been saved outside of the repo, leaving only the links to the original raw data and the cleaned sets in the Repo. due to their size. 
-</div>
 
+**The original datasets have been saved outside of the repo, leaving only the links to the original raw data and the cleaned sets in the Repo. due to their size.**
 
 
 <a name="cleaning"></a>
@@ -59,7 +58,7 @@ Describe your full process of data wrangling and cleaning. Document why you chos
 <a name="analysis"></a>
 
 ## Analysis
-* Overview the general steps you will go through to analyze your data in order to test your hypothesis.
+* Overview the general steps you will go through to analyse your data in order to test your hypothesis.
 * Document each step of your data exploration and analysis.
 * Include charts to demonstrate the effect of your work. 
 * If you use ML in your final project, describe your feature selection process.
@@ -97,13 +96,12 @@ The defined workflow follows different steps:
 <a name="organization"></a>
 
 ## Organization
-##### The Project is orgnaised using the following structure in hte Repository:
-- README.md file for general project overview, quesiton definition and initial resources.
+##### The Project is organised using the following structure in the Repository:
+- README.md file for general project overview, question definition and initial resources.
 - Data folder divided into original and cleaned data. 
-- Visualisation forlder where you can find the graphics developed throught the project. 
+- Visualisation folder where you can find the graphics developed through the project. 
 - Code folder containing the three codebooks for Database Creation, Data Wrangling, and Analysis *(the latter contains the conclusions, afterthoughts, and additional links to literature)*.
-    - In each of the codebooks you will find the step by stepl explanations and reasoning of my workflow. 
-
+    - In each of the codebooks you will find the step by step explanations and reasoning of my workflow. 
 
 ##### The organization of the project has been carried out using the following: 
 1. Time management: Trello (Kanban Board)
