@@ -36,11 +36,7 @@ From here, the aim is to see how trends have changed over time and make a predic
 
 **The goal of this is to see how many innovative ideas companies and universities in each country files.**
 
-The second step is then to analyse several indices provided by the world bank. These include variables such as % of GDP invested in R&D, number of articles and journals published, number of technicians working in R&D, etc.  
-
-From here I am hoping to create an **informative dashboard** with all necessary information to see how innovation is distributed. 
-
-I also aim to formulate a **prediction as to which countries are expected to have the highest innovation rate.**
+The second step is then to analyse several indices provided by the world bank. These include variables such as % of GDP invested in R&D, number of articles and journals published, number of technicians working in R&D, etc.  Aiming to formulate a **prediction as to which countries are expected to have the highest innovation rate.**
 
 ##### This section will be structured as follows:
 
@@ -53,6 +49,8 @@ I also aim to formulate a **prediction as to which countries are expected to hav
 -  Q1.4: The creation of a dashboard - what countries are the most interesting? 
 
 ### The second step was to look more in depth into one of the industries. 
+
+For this step, what would be great is to create a template so that, on the basis of this report, I could, in the future, code a search bar. This would allow me to easily find information on any industry and give me the initial insights on it, guiding the initiaition of a more in depth market analysis. 
 
 What industries have a high innovation rate, and how is the market in that field?
 I will look into the fields of industry with the highest innovation/ patent number filing, and I will carry out a market analysis in this field, looking into which companies are the strongest and invest the most in R&D in given field. I will try answering the following questions:
@@ -379,7 +377,7 @@ The results on this model were not as expected. It needs further work as the sam
 
 - Comparison of % growth development between countries 
 
-- In depth company analysis considering other financial information
+- Code search bar for market analysis
 
 
 <a name="workflow"></a>
